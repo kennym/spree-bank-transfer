@@ -1,4 +1,6 @@
 es:
+  general_settings: "Configuración general"
+  new_bank_account: "Nueva cuenta bancaria"
   account_owner: "Propietario de cuenta"
   account_number: "Número de cuenta"
   bank_accounts: "Cuentas bancarias"
