@@ -1,0 +1,13 @@
+es:
+  account_owner: "Propietario de cuenta"
+  account_number: "Número de cuenta"
+  bank_accounts: "Cuentas bancarias"
+  bank_name: "Nombre del banco"
+  bank_branch: "Sucursal de banco"
+  back_to_bank_accounts_list: "Volver a lista de cuentas bancarias"
+  editing_bank_account: "Editando cuenta bancaria"
+  payment_confirmation: "Confirmación de pago"
+  payment_information: "Información de pago"
+  please_make_your_payment_by_using_bank_transfer_to_one_of_the_following_banks: "Por favor realice su pago usando transferencia bancaria a uno de los siguientes bancos"
+  please_continue_to_the_payment_confirmation_page_once_you_ve_made_your_payment: "Por favor continue su confirmación de pago una vez que haya hecho su pago"
+  thank_you_for_confirming_your_payment_your_order_is_currently_being_processed: "Gracias por confirmar su pago. Su pedido está siendo procesado ahora."
