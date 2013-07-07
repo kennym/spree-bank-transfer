@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_bank_transfer'
-  s.version     = '1.0.0'
+  s.version     = '2.0.0'
   s.summary     = 'Adds payment method by bank transfer'
   s.required_ruby_version = '>= 1.8.7'
 
@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 1.3.2'
+  s.add_dependency 'spree_core', '~> 2.0.0'
   s.add_dependency 'twilio-ruby'
 
   s.add_development_dependency 'capybara', '~> 1.1.2'
